@@ -16,7 +16,7 @@ Fill PIX Form
 
 Submit Pix Form
     Click                      css=button >> text= Enviar PIX
- 
+
 Check The Balance
     Wait For Elements State
     ...                        css=.navbar-item >> text= Olá Papito, seu saldo é R$ 900
@@ -32,9 +32,9 @@ Transaction Should Be Visible
     Get Text                   ${element}                                                  contains                                                        ${pix_informations}[chave_pix]
     Get Text                   ${element}                                                  contains                                                        ${pix_informations}[banco]
 
-Error Message Should Be  
+Error Message Should Be
     [Arguments]                ${expected_message}
 
     Wait For Elements State
-    ...                        css=.message >> text= ${expected_message} 
-    ...                        visible      
+    ...                        css=.message >> text= ${expected_message}
+    ...                        visible

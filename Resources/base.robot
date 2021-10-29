@@ -1,4 +1,5 @@
 *** Settings ***
+
 Documentation    Arquivo base do projeto
 
 Library          Browser

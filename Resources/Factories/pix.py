@@ -1,5 +1,5 @@
 def factory_pix_valido():
-    pix= {
+    pix = {
         "banco": "Nubank",
         "chave_pix": "23526722871",
         "valor": "100"
@@ -9,7 +9,7 @@ def factory_pix_valido():
 
 
 def factory_pix_zerado():
-    pix= {
+    pix = {
         "banco": "Neon",
         "chave_pix": "23526722871",
         "valor": "0"
@@ -19,7 +19,7 @@ def factory_pix_zerado():
 
 
 def factory_pix_negativo():
-    pix= {
+    pix = {
         "banco": "Next",
         "chave_pix": "23526722871",
         "valor": "-1"
