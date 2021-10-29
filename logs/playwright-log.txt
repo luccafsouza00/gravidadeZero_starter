@@ -1,0 +1,79 @@
+{"level":30,"time":"2021-10-29T16:21:32.298Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Listening on 64244"}
+{"level":30,"time":"2021-10-29T16:21:33.311Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-29T16:21:33.337Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active context"}
+{"level":30,"time":"2021-10-29T16:21:34.479Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-29T16:21:34.479Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active page"}
+{"level":30,"time":"2021-10-29T16:21:36.376Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: css=.button >> text=Fazer PIX"}
+{"level":30,"time":"2021-10-29T16:21:37.513Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: css=.field select"}
+{"level":30,"time":"2021-10-29T16:21:38.559Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: css=#chave-pix"}
+{"level":30,"time":"2021-10-29T16:21:39.611Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: css=#valor"}
+{"level":30,"time":"2021-10-29T16:21:40.663Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: css=button >> text= Enviar PIX"}
+{"level":30,"time":"2021-10-29T16:21:41.727Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: css=.navbar-item >> text= Olá Papito, seu saldo é R$ 900"}
+{"level":30,"time":"2021-10-29T16:21:41.750Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: xpath=//td[contains(text(),\"Nubank\")]/.."}
+{"level":30,"time":"2021-10-29T16:21:41.770Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-29T16:21:41.797Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Retrieved text for element xpath=//td[contains(text(),\"Nubank\")]/.. containing 251-448-9027\tEnvio de PIX\tNubank - PIX para 23526722871\t29/10/2021\tR$ -100 "}
+{"level":30,"time":"2021-10-29T16:21:41.801Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-29T16:21:41.823Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Retrieved text for element xpath=//td[contains(text(),\"Nubank\")]/.. containing 251-448-9027\tEnvio de PIX\tNubank - PIX para 23526722871\t29/10/2021\tR$ -100 "}
+{"level":30,"time":"2021-10-29T16:21:41.827Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-29T16:21:41.847Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Retrieved text for element xpath=//td[contains(text(),\"Nubank\")]/.. containing 251-448-9027\tEnvio de PIX\tNubank - PIX para 23526722871\t29/10/2021\tR$ -100 "}
+{"level":30,"time":"2021-10-29T16:21:41.979Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active context"}
+{"level":30,"time":"2021-10-29T16:21:41.979Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-29T16:21:41.979Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active page"}
+{"level":30,"time":"2021-10-29T16:21:41.997Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active context"}
+{"level":30,"time":"2021-10-29T16:21:41.997Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-29T16:21:41.997Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active page"}
+{"level":30,"time":"2021-10-29T16:21:42.627Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-29T16:21:42.672Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active context"}
+{"level":30,"time":"2021-10-29T16:21:43.748Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-29T16:21:43.748Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active page"}
+{"level":30,"time":"2021-10-29T16:21:45.759Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: css=.button >> text=Fazer PIX"}
+{"level":30,"time":"2021-10-29T16:21:46.863Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: css=.field select"}
+{"level":30,"time":"2021-10-29T16:21:47.904Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: css=#chave-pix"}
+{"level":30,"time":"2021-10-29T16:21:48.957Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: css=#valor"}
+{"level":30,"time":"2021-10-29T16:21:50.003Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: css=button >> text= Enviar PIX"}
+{"level":30,"time":"2021-10-29T16:21:51.081Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: css=.message >> text= Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-29T16:21:51.237Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active context"}
+{"level":30,"time":"2021-10-29T16:21:51.237Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-29T16:21:51.237Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active page"}
+{"level":30,"time":"2021-10-29T16:21:51.259Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active context"}
+{"level":30,"time":"2021-10-29T16:21:51.260Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-29T16:21:51.260Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active page"}
+{"level":30,"time":"2021-10-29T16:21:52.230Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-29T16:21:52.267Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active context"}
+{"level":30,"time":"2021-10-29T16:21:53.691Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-29T16:21:53.691Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active page"}
+{"level":30,"time":"2021-10-29T16:21:55.670Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: css=.button >> text=Fazer PIX"}
+{"level":30,"time":"2021-10-29T16:21:56.802Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: css=.field select"}
+{"level":30,"time":"2021-10-29T16:21:57.863Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: css=#chave-pix"}
+{"level":30,"time":"2021-10-29T16:21:58.912Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: css=#valor"}
+{"level":30,"time":"2021-10-29T16:21:59.959Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: css=button >> text= Enviar PIX"}
+{"level":30,"time":"2021-10-29T16:22:01.056Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: css=.message >> text= Oops. Valor para PIX incorreto..."}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=.message >> text= Oops. Valor para PIX incorreto..." to be visible
+============================================================
+    at /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/Browser/wrapper/index.js:26429:45
+    at step (/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/Browser/wrapper/index.js:26312:23)
+    at Object.next (/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/Browser/wrapper/index.js:26293:53)
+    at fulfilled (/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/Browser/wrapper/index.js:26284:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-10-29T16:22:11.405Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active context"}
+{"level":30,"time":"2021-10-29T16:22:11.405Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-29T16:22:11.405Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active page"}
+{"level":30,"time":"2021-10-29T16:22:11.427Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active context"}
+{"level":30,"time":"2021-10-29T16:22:11.427Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-29T16:22:11.427Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active page"}
+{"level":30,"time":"2021-10-29T16:22:12.419Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-29T16:22:12.480Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active context"}
+{"level":30,"time":"2021-10-29T16:22:13.566Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-29T16:22:13.566Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active page"}
+{"level":30,"time":"2021-10-29T16:22:15.340Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Page|Frame|Element resolved elementSelector: css=.navbar-item >> text= Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-10-29T16:22:15.520Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active context"}
+{"level":30,"time":"2021-10-29T16:22:15.520Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-29T16:22:15.520Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active page"}
+{"level":30,"time":"2021-10-29T16:22:15.550Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active context"}
+{"level":30,"time":"2021-10-29T16:22:15.550Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-29T16:22:15.551Z","pid":65862,"hostname":"MacBook-Air-de-Lucca.local","msg":"Changed active page"}
