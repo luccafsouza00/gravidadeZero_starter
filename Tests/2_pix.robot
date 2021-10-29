@@ -22,7 +22,7 @@ Cenario 2: Fazer PIX
     Fill PIX Form                    ${pix_valido}
     Submit Pix Form
     # Então meu saldo final deve ser de R$ 900
-    Check The Balance
+    Check The Balance                Papito                                  900
     # E a transação em questão é adicionada no meu Extrato
     Transaction Should Be Visible    ${pix_valido}
 
