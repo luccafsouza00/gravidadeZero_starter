@@ -32,13 +32,13 @@ Cenario 3: PIX com valor ZERO
     [Tags]                           pix_zerado
 
     ${pix_zerado}                    Factory Pix Zerado
-# Dado que meu saldo é de R$ 1000
-# E acesso a home nBank
-# Quando faço um PIX no valor de R$ 0
+    # Dado que meu saldo é de R$ 1000
+    # E acesso a home nBank
+    # Quando faço um PIX no valor de R$ 0
     Go To PIX Form
     Fill PIX Form                    ${pix_zerado}
     Submit Pix Form
-# Então vejo a mensgem de alerta "Oops. Transferir ZERO é osso hein..."
+    # Então vejo a mensgem de alerta "Oops. Transferir ZERO é osso hein..."
     Error Message Should Be          Oops. Transferir ZERO é osso hein...
 
 
@@ -47,12 +47,11 @@ Cenario 4: PIX com valor NEGATIVO
     [Tags]                           pix_negativo
 
     ${pix_negativo}                  Factory Pix Negativo
-# Dado que meu saldo é de R$ 1000
-# E acesso a home nBank
-# Quando faço um PIX no valor de R$ -1
+    # Dado que meu saldo é de R$ 1000
+    # E acesso a home nBank
+    # Quando faço um PIX no valor de R$ -1
     Go To PIX Form
     Fill PIX Form                    ${pix_negativo}
     Submit Pix Form
-
-# Então vejo a mensgem de alerta "Oops. Valor para PIX incorreto..."
+    # Então vejo a mensgem de alerta "Oops. Valor para PIX incorreto..."
     Error Message Should Be          Oops. Valor para PIX incorreto...
